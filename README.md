@@ -1,5 +1,5 @@
 <a href="https://linkedin.com/in/Deepansh-Umar" target="_blank">
-  <img src="assets/header.png" alt="LinkedIn" />
+  <img src="assets/header_img.png" alt="LinkedIn" />
 </a>
 
 
