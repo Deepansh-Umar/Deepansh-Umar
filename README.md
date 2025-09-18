@@ -98,7 +98,7 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Deepansh-Umar&show_icons=true&locale=en&layout=compact&hide_border=true&theme=vision-friendly-dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Deepansh-Umar&show_icons=true&locale=en&layout=compact&hide_border=true&theme=vision-friendly-dark" alt="Top Languages Used" />
 </p>
 
 ---
